@@ -1,5 +1,5 @@
 # app-simples-4
-Aplicação simples para um controle de funcionários para uma empresa de RH.
+Aplicação simples em Python para um controle de funcionários para uma empresa de RH.
 Recursos:
 ⦁	Cadastrar Funcionário
 ⦁	Consultar Funcionários(s)
